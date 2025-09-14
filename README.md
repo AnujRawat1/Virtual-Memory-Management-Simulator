@@ -13,7 +13,8 @@ Simulation Logging: Detailed logs of each simulation step, including TLB hits/mi
 
 ## Installation
 
-Clone the Repository:git clone https://github.com/[your-username]/virtual-memory-management-simulator.git
+Clone the Repository: https://github.com/AnujRawat1/Virtual-Memory-Management-Simulator.git
+
 cd virtual-memory-management-simulator
 
 
